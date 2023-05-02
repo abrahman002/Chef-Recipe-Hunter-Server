@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Rahman",
+        "experience_year": 10,
+        "rating": 4.5,
+        "img_url": "https://example.com/chef-rahman.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 50
+    },
+    {
+        "id": 2,
+        "name": "Chef Ahmed",
+        "experience_year": 7,
+        "rating": 4.2,
+        "img_url": "https://example.com/chef-ahmed.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 30
+    },
+    {
+        "id": 3,
+        "name": "Chef Khan",
+        "experience_year": 5,
+        "rating": 3.8,
+        "img_url": "https://example.com/chef-khan.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 20
+    },
+    {
+        "id": 4,
+        "name": "Chef Islam",
+        "experience_year": 15,
+        "rating": 4.8,
+        "img_url": "https://example.com/chef-islam.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 70
+    },
+    {
+        "id": 5,
+        "name": "Chef Ali",
+        "experience_year": 8,
+        "rating": 4.0,
+        "img_url": "https://example.com/chef-ali.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 40
+    },
+    {
+        "id": 6,
+        "name": "Chef Hasan",
+        "experience_year": 12,
+        "rating": 4.7,
+        "img_url": "https://example.com/chef-hasan.jpg",
+        "location": "Bangladesh",
+        "num_recipes": 60
+    }
+]
