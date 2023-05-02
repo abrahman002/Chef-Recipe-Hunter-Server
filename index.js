@@ -1,14 +1,18 @@
 const express =require('express')
 const app=express()
 const port=4000;
-// const cors=require(cors)
+const cors=require('cors')
 const recipe=require('./data/chef.json')
 
-// app.use(cors());
+app.use(cors());
 
 app.get('/recipe',(req,res)=>{
     res.send(recipe);
 })
+
+
+
+
 
 app.get('/recipe/:id',(req,res)=>{
     const id=parseInt(req.params.id);
