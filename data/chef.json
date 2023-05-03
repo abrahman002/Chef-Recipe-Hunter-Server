@@ -6,7 +6,61 @@
         "rating": 4.5,
         "img_url": "https://th.bing.com/th/id/R.573748d783817e551e5ba3be8eab2ee9?rik=vMM%2baWN5ryauTA&pid=ImgRaw&r=0",
         "location": "Bangladesh",
-        "num_recipes": 50
+        "num_recipes": 50,
+        "description": "Chef Rahman is a highly skilled chef with over 10 years of experience in the culinary industry. He is known for his unique and flavorful dishes that incorporate traditional Bangladeshi ingredients with a modern twist.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     },
     {
         "id": 2,
@@ -15,7 +69,61 @@
         "rating": 4.2,
         "img_url": "https://th.bing.com/th/id/OIP.ofY-vI_mXTEH6FIsSIK4EADdEZ?pid=ImgDet&w=468&h=595&rs=1",
         "location": "Bangladesh",
-        "num_recipes": 30
+        "num_recipes": 30,
+        "description": "Chef Ahmed is a talented chef with 7 years of experience in the culinary industry. He specializes in creating delicious and healthy dishes that are packed with flavor and nutrition.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     },
     {
         "id": 3,
@@ -24,7 +132,61 @@
         "rating": 3.8,
         "img_url": "https://th.bing.com/th/id/OIP.6gT2DWIaVzW-wS0Ja9cewAHaKM?pid=ImgDet&w=488&h=672&rs=1",
         "location": "Bangladesh",
-        "num_recipes": 20
+        "num_recipes": 20,
+        "description": "Chef Khan is a creative chef with a passion for experimenting with new ingredients and flavors. He has 5 years of experience in the culinary industry and is known for his innovative and delicious dishes.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     },
     {
         "id": 4,
@@ -33,7 +195,61 @@
         "rating": 4.8,
         "img_url": "https://th.bing.com/th/id/OIP.4fns5CLSdJhuL7zvADHvdgHaJM?pid=ImgDet&w=644&h=800&rs=1",
         "location": "Bangladesh",
-        "num_recipes": 70
+        "num_recipes": 70,
+        "description": "Chef Islam is an experienced chef with over 15 years of experience in the culinary industry. He is known for his extensive knowledge of Bangladeshi cuisine and his ability to create unique and flavorful dishes that showcase the country's rich culinary traditions.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     },
     {
         "id": 5,
@@ -42,7 +258,61 @@
         "rating": 4.0,
         "img_url": "https://eversley-training.co.uk/themes/front/images/page-1_img02.png",
         "location": "Bangladesh",
-        "num_recipes": 40
+        "num_recipes": 40,
+        "description": "Chef Ali is a skilled chef with 8 years of experience in the culinary industry. He is known for his delicious and beautifully presented dishes that incorporate a mix of traditional and modern cooking techniques.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     },
     {
         "id": 6,
@@ -51,6 +321,60 @@
         "rating": 4.7,
         "img_url": "https://thumbs.dreamstime.com/b/male-chef-tasty-salad-white-background-151366388.jpg",
         "location": "Bangladesh",
-        "num_recipes": 60
+        "num_recipes": 60,
+        "description": "Chef Hasan is a highly respected chef with 12 years of experience in the culinary industry. He is known for his exquisite and flavorful dishes that showcase his extensive knowledge of Bangladeshi cuisine and his innovative cooking techniques.",
+        "recipes": [
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "garam masala",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onions",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "chili powder",
+                    "turmeric powder",
+                    "coriander powder",
+                    "cumin powder",
+                    "salt"
+                ]
+            },
+            {
+                "food-img": "https://example.com/chef-rahman.jpg",
+                "name": "Vegetable Pulao",
+                "ingredients": [
+                    "rice",
+                    "vegetables (carrots, peas, beans, potatoes)",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "cumin seeds",
+                    "bay leaf",
+                    "cinnamon stick",
+                    "cardamom pods",
+                    "cloves",
+                    "salt"
+                ]
+            }
+        ]
     }
 ]
