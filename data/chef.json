@@ -10,8 +10,9 @@
         "description": "Chef Rahman is a highly skilled chef with over 10 years of experience in the culinary industry. He is known for his unique and flavorful dishes that incorporate traditional Bangladeshi ingredients with a modern twist.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
                 "rating": 4.5,
                 "ingredients": [
                     "chicken",
@@ -22,8 +23,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
                 "rating": 4.5,
                 "ingredients": [
                     "fish",
@@ -34,8 +36,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
                 "rating": 4.5,
                 "ingredients": [
                     "rice",
@@ -58,9 +61,10 @@
         "description": "Chef Ahmed is a talented chef with 7 years of experience in the culinary industry. He specializes in creating delicious and healthy dishes that are packed with flavor and nutrition.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
-                "rating": 4.2,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -70,9 +74,10 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
-                "rating": 4.2,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -82,9 +87,10 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
-                "rating": 4.2,
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -106,9 +112,10 @@
         "description": "Chef Khan is a creative chef with a passion for experimenting with new ingredients and flavors. He has 5 years of experience in the culinary industry and is known for his innovative and delicious dishes.",
         "recipes": [
             {
-                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -118,9 +125,10 @@
                 ]
             },
             {
-                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -130,9 +138,10 @@
                 ]
             },
             {
-                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
-                "rating": 3.8,
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -154,9 +163,10 @@
         "description": "Chef Islam is an experienced chef with over 15 years of experience in the culinary industry. He is known for his extensive knowledge of Bangladeshi cuisine and his ability to create unique and flavorful dishes that showcase the country's rich culinary traditions.",
         "recipes": [
             {
-                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -166,9 +176,10 @@
                 ]
             },
             {
-                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -178,9 +189,10 @@
                 ]
             },
             {
-                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
-                "rating": 3.8,
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -202,9 +214,10 @@
         "description": "Chef Ali is a skilled chef with 8 years of experience in the culinary industry. He is known for his delicious and beautifully presented dishes that incorporate a mix of traditional and modern cooking techniques.",
         "recipes": [
             {
-                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -214,9 +227,10 @@
                 ]
             },
             {
-                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -226,9 +240,10 @@
                 ]
             },
             {
-                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
-                "rating": 3.8,
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -250,9 +265,10 @@
         "description": "Chef Hasan is a highly respected chef with 12 years of experience in the culinary industry. He is known for his exquisite and flavorful dishes that showcase his extensive knowledge of Bangladeshi cuisine and his innovative cooking techniques.",
         "recipes": [
             {
-                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+                "picture": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add chicken and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, garam masala, and salt. 6. Simmer for 15-20 minutes until the chicken is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -262,9 +278,10 @@
                 ]
             },
             {
-                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
+                "picture": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry3.jpg",
                 "name": "Bengali Fish Curry",
-                "rating": 3.8,
+                "cooking_method": "1. In a large skillet, heat oil over medium-high heat. 2. Add onions and cook until translucent. 3. Add ginger and garlic and cook for another 1-2 minutes. 4. Add fish and cook until browned. 5. Add tomatoes, chili powder, turmeric powder, coriander powder, cumin powder, and salt. 6. Simmer for 10-15 minutes until the fish is fully cooked and the gravy has thickened.",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -274,9 +291,10 @@
                 ]
             },
             {
-                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+                "picture": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-pulao-recipe-735x490.jpg",
                 "name": "Vegetable Pulao",
-                "rating": 3.8,
+                "cooking_method": "1. Rinse rice and soak in water for 30 minutes. 2. In a large pot, heat oil over medium-high heat. 3. Add onions and cook .",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
