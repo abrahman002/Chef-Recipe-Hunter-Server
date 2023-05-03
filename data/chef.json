@@ -12,6 +12,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -23,6 +24,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -34,6 +36,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Vegetable Pulao",
+                "rating": 4.5,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -57,6 +60,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 4.2,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -68,6 +72,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 4.2,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -79,6 +84,7 @@
             {
                 "food-img": "https://example.com/chef-rahman.jpg",
                 "name": "Vegetable Pulao",
+                "rating": 4.2,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -100,8 +106,9 @@
         "description": "Chef Khan is a creative chef with a passion for experimenting with new ingredients and flavors. He has 5 years of experience in the culinary industry and is known for his innovative and delicious dishes.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -111,8 +118,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -122,8 +130,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
                 "name": "Vegetable Pulao",
+                "rating": 3.8,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -145,8 +154,9 @@
         "description": "Chef Islam is an experienced chef with over 15 years of experience in the culinary industry. He is known for his extensive knowledge of Bangladeshi cuisine and his ability to create unique and flavorful dishes that showcase the country's rich culinary traditions.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -156,8 +166,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -167,8 +178,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
                 "name": "Vegetable Pulao",
+                "rating": 3.8,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -190,8 +202,9 @@
         "description": "Chef Ali is a skilled chef with 8 years of experience in the culinary industry. He is known for his delicious and beautifully presented dishes that incorporate a mix of traditional and modern cooking techniques.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -201,8 +214,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "fish",
                     "mustard oil",
@@ -212,8 +226,9 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
                 "name": "Vegetable Pulao",
+                "rating": 3.8,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
@@ -235,8 +250,9 @@
         "description": "Chef Hasan is a highly respected chef with 12 years of experience in the culinary industry. He is known for his exquisite and flavorful dishes that showcase his extensive knowledge of Bangladeshi cuisine and his innovative cooking techniques.",
         "recipes": [
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.foodandwine.com/thmb/f4uf4WXHz-waXLB_oqG-U1p4Y7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
                 "name": "Spicy Chicken Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "chicken",
                     "tomatoes",
@@ -246,27 +262,27 @@
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://www.licious.in/blog/wp-content/uploads/2021/08/Mustard-Fish-Glory-Shot-750x750.jpg",
                 "name": "Bengali Fish Curry",
+                "rating": 3.8,
                 "ingredients": [
                     "fish",
                     "mustard oil",
                     "onions",
                     "tomatoes",
                     "ginger"
-                    
                 ]
             },
             {
-                "food-img": "https://example.com/chef-rahman.jpg",
+                "food-img": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
                 "name": "Vegetable Pulao",
+                "rating": 3.8,
                 "ingredients": [
                     "rice",
                     "vegetables (carrots, peas, beans, potatoes)",
                     "onions",
                     "ginger",
                     "garlic"
-                    
                 ]
             }
         ]
